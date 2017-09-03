@@ -1,4 +1,2 @@
 # helloworld
-# notes to cover the repository
-# First amendment
-Second
+Attempting to add information regarding this project.
